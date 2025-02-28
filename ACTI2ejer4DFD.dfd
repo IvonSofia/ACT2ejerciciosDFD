@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+102
+' bienvenido seño@ usuario, vamos a calcular el valor de una compra, su descuento y el total a pagar '
+5
+1
+7
+por,val
+6
+2
+3
+des
+13
+(val*por)/100
+5
+total
+8
+val- des
+4
+1
+5
+total
+1

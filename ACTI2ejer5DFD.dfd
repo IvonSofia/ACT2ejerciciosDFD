@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+2
+ml
+6
+3
+3
+sub
+7
+ml*4500
+3
+iva
+12
+(sub*19)/100
+5
+total
+7
+sub+iva
+4
+1
+44
+'señor usuario su total a pagar es de: ',sub
+1
