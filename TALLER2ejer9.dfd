@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+72
+'bienvenido señor usuario, digite su edad y si tiene licencia (si o no)'
+5
+1
+4
+edad
+4
+1
+37
+'¿cuenta con licencia de conduccion?'
+5
+1
+5
+tiene
+7
+0
+1
+70
+edad>=18 and (tiene= 'si' or tiene='SI' or tiene='Si' or tiene= 'sI') 
+4
+1
+21
+' no puedes conducir'
+13
+4
+1
+17
+'puedes conducir'
+13
+1
